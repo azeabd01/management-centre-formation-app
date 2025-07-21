@@ -17,7 +17,7 @@ Projet réalisé en équipe de 3 personnes et moi dans le cadre de la Souss Mass
 
 ## 👥 Équipe
 
-- [@azeabd01](https://github.com/azeabd01) – Développement backend & API
+- [@azeabd01](https://github.com/azeabd01) 
 - [@oumaimaakdim2854](https://github.com/oumaimaakdim2854)
 - [@OuahmaneHanane](https://github.com/OuahmaneHanane)
 - [@Khadijaaboussebre](https://github.com/khadija568)
